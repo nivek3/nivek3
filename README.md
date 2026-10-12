@@ -16,7 +16,7 @@
 
 - Building **Web3** infrastructure and **crypto trading** systems — MPC wallets, chain indexers, backend APIs
 - Mostly **Rust** & **TypeScript**, also **Go** and **Node.js** ·
-- 💬 Questions or ideas? Open an issue [here](https://github.com/nivek-ph/nivek-ph/issues)
+- 💬 Questions or ideas? Open an issue [here](https://github.com/nivek3/nivek3/issues)
 
 ### Tech stack
 
@@ -36,9 +36,9 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: stretch; gap: 10px; width: 100%;">
 
-<img height="165" style="flex: 1 1 calc(50% - 10px); max-width: 100%; height: auto;" src="https://github-stats-extended.vercel.app/api?username=nivek-ph&theme=transparent&hide_border=true&show_icons=true&count_private=true&line_height=24" alt="GitHub stats"/>
+<img height="165" style="flex: 1 1 calc(50% - 10px); max-width: 100%; height: auto;" src="https://github-stats-extended.vercel.app/api?username=nivek3&theme=transparent&hide_border=true&show_icons=true&count_private=true&line_height=24" alt="GitHub stats"/>
 
-<img height="165" style="flex: 1 1 calc(50% - 10px); max-width: 100%; height: auto;" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nivek-ph&theme=transparent&hide_border=true&layout=compact&card_width=380" alt="Top languages"/>
+<img height="165" style="flex: 1 1 calc(50% - 10px); max-width: 100%; height: auto;" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nivek3&theme=transparent&hide_border=true&layout=compact&card_width=380" alt="Top languages"/>
 
 </div>
 
